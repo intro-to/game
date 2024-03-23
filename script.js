@@ -1,4 +1,4 @@
-const player = document.querySelector('.player');
+const  'player ' = document.querySelector('.player');
 
 document.addEventListener('keydown', (event) => {
   if (event.key === 'ArrowLeft') {
